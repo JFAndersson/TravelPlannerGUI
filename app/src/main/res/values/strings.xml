@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">BussknappPC</string>
+    <string name="till">Till…</string>
+    <string name="fran">Från…</string>
+    <string name="sok">Sök</string>
+    <string name="kalla_stopp">Stopp</string>
+    <string name="kontext">Dina biljetter kommer \n att visas här</string>
+    <string name="mina_biljetter">Mina Biljetter</string>
+    <string name="andra_rutt">Ändra rutt</string>
+    <string name="marginal">marginal</string>
+    <string name="med_karta">Sök med karta</string>
+    <string name="utan_karta">Sök utan karta</string>
+    <string name="tavla">Avgångstavla</string>
+    <string name="senaste_rutter">Inga senaste rutter</string>
+    <string name="arrow_marker">pilmarkör</string>
+    <string name="route_icon">route_icon</string>
+    <string name="noll">null</string>
+    <string name="lageG">Läge G</string>
+    <string name="boras_resecentrum">Borås Resecentrum</string>
+    <string name="viskafors_station">Viskafors Station</string>
+    <string name="res_fran">Res från</string>
+    <string name="res_till">Res till</string>
+    <string name="zonb">Zon B</string>
+    <string name="nittio_min">90 min</string>
+    <string name="tolv_timmar">12 timmar</string>
+    <string name="trehundrasextio_dagar">360 dagar</string>
+    <string name="trettio_dagar">30 dagar</string>
+
+    <string-array name="hallplatser_array">
+        <item>Borås Resecentrum</item>
+        <item>Borås Arena</item>
+        <item>Boråsparken</item>
+        <item>Borgstena Station</item>
+
+        <item>Viskafors Station</item>
+        <item>Viskafors Skola</item>
+        <item>Viskavallen</item>
+        <item>Viskadalens folkhögskola</item>
+
+        <item>Fristad Station</item>
+        <item>Fristad Skola</item>
+        <item>Folkhögskolan Fristad</item>
+        <item>Bilverkstaden Fristad</item>
+    </string-array>
+</resources>
